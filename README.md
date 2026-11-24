@@ -19,3 +19,4 @@ Le serveur Vite utilise le proxy local `/api` configuré dans `vite.config.ts`. 
 
 ```bash
 npm run build
+```
