@@ -1,4 +1,4 @@
-# Tremplin — interface publique
+# Tremplin - interface publique
 
 Code source public de l'interface web Tremplin, en français et en anglais.
 
